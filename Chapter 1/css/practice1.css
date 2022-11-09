@@ -150,7 +150,7 @@
 }
 
 .headerMain{
-    background-image: url('./fruits.jpg');
+    background-image: url('../images/fruits.jpg');
     height: 400px;
 }
 
@@ -198,14 +198,14 @@
     background-color: grey;
     height:200px;
     margin-top: 30px;
-    background-image: url('./cabbage.jpg');
+    background-image: url('../images/cabbage.jpg');
 }
 .left{
     width: 49%;
     background-color: peachpuff;
     height: 200px;
     margin-top: 30px;
-    background-image: url('./straw.jpg');
+    background-image: url('../images/straw.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
